@@ -152,4 +152,4 @@ cython_debug/
 #.idea/
 
 .DS_Store
-**/workflow_files/
+**/workflow_files/**
